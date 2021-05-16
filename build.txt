@@ -1,0 +1,6 @@
+displayName = Fascist Terraria
+author = Yours Truly, Benito Mussolini
+version = 0.1.1
+sortBefore = TerrariaAmbience
+sortAfter = CapitalismTerraria, CommunistTerraria
+homepage = http://www.worldfuturefund.org/wffmaster/reading/germany/mussolini.htm
